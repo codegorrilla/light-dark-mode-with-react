@@ -22,3 +22,7 @@
   --toggle-bg: #283452;
   --toggle-fg: #00a6ff;
 }
+
+[data-theme='dark'] label[for='check'] {
+  color: #fff;
+}
